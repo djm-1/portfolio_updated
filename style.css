@@ -1,0 +1,27 @@
+h1{
+    color: blueviolet;
+    font-size: 100px;
+}
+h2{
+    color: maroon;
+}
+h3{
+    color: maroon;
+}
+body{
+    background-color: rgba(140, 222, 255, 0.863);
+}
+.profile{
+    border-radius: 100%;
+}
+.headhob{
+    font-size: 50px;
+}
+.font{
+    font-family: fantasy;
+    font-size: 20px;
+}
+.hobimg{
+    height: 400 px;
+    width: 600px;
+}
